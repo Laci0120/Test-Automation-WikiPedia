@@ -1,0 +1,17 @@
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\Specflow.dll.config
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\Specflow.dll
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\Specflow.pdb
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\nunit.framework.dll
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\WebDriver.dll
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\nunit.framework.pdb
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\nunit.framework.xml
+C:\Users\Bethlen\source\repos\Specflow\Specflow\bin\Debug\WebDriver.xml
+C:\Users\Bethlen\source\repos\Specflow\Specflow\obj\Debug\Specflow.csprojAssemblyReference.cache
+C:\Users\Bethlen\source\repos\Specflow\Specflow\obj\Debug\Specflow.csproj.CoreCompileInputs.cache
+C:\Users\Bethlen\source\repos\Specflow\Specflow\obj\Debug\Specflow.csproj.CopyComplete
+C:\Users\Bethlen\source\repos\Specflow\Specflow\obj\Debug\Specflow.dll
+C:\Users\Bethlen\source\repos\Specflow\Specflow\obj\Debug\Specflow.pdb
